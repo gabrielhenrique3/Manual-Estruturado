@@ -1,0 +1,8 @@
+C:\Users\ALUNO\source\repos\RevisaoSintaxe.ParadigmaEstrutural\RevisaoSintaxe.ParadigmaEstrutural\bin\Debug\RevisaoSintaxe.ParadigmaEstrutural.exe.config
+C:\Users\ALUNO\source\repos\RevisaoSintaxe.ParadigmaEstrutural\RevisaoSintaxe.ParadigmaEstrutural\bin\Debug\RevisaoSintaxe.ParadigmaEstrutural.exe
+C:\Users\ALUNO\source\repos\RevisaoSintaxe.ParadigmaEstrutural\RevisaoSintaxe.ParadigmaEstrutural\bin\Debug\RevisaoSintaxe.ParadigmaEstrutural.pdb
+C:\Users\ALUNO\source\repos\RevisaoSintaxe.ParadigmaEstrutural\RevisaoSintaxe.ParadigmaEstrutural\obj\Debug\RevisaoSintaxe.ParadigmaEstrutural.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\RevisaoSintaxe.ParadigmaEstrutural\RevisaoSintaxe.ParadigmaEstrutural\obj\Debug\RevisaoSintaxe.ParadigmaEstrutural.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\source\repos\RevisaoSintaxe.ParadigmaEstrutural\RevisaoSintaxe.ParadigmaEstrutural\obj\Debug\RevisaoSintaxe.ParadigmaEstrutural.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\RevisaoSintaxe.ParadigmaEstrutural\RevisaoSintaxe.ParadigmaEstrutural\obj\Debug\RevisaoSintaxe.ParadigmaEstrutural.exe
+C:\Users\ALUNO\source\repos\RevisaoSintaxe.ParadigmaEstrutural\RevisaoSintaxe.ParadigmaEstrutural\obj\Debug\RevisaoSintaxe.ParadigmaEstrutural.pdb
